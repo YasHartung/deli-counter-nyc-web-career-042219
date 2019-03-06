@@ -11,4 +11,5 @@ def line (line)
       length -= 1
     end
   end
+  return string
 end
