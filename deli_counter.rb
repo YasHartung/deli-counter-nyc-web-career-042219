@@ -10,6 +10,7 @@ def line (line)
       string += " #{i+1}. #{line[1]}"
       length -= 1
     end
+    return string
   end
-  return string
+
 end
